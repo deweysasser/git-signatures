@@ -63,3 +63,10 @@ gpg:                 aka "Dewey Sasser (Release Signing Key) <dewey@sasser.com>"
 $ echo $?
 0
 ```
+
+## TODO
+
+Things to add to this document:
+* How a Github driven branch rebase modifies signatures
+* How a CLI given rebase deals with signatures from other people.
+* How GitHub actions created commits look
